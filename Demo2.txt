@@ -1,6 +1,4 @@
 Learning Git Commands
-<<<<<<< Updated upstream
+
 edit by krishna
 =======
-
->>>>>>> Stashed changes
